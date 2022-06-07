@@ -26,7 +26,6 @@ public class Hamburger {
         System.out.println("Add some live vegetables");
     }
 
-//    the secret ingredient is: "PLANKTONS!!!"
-
+//    the secret ingredient is: --- not telling is a secret ---
 }
 
